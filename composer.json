@@ -10,8 +10,8 @@
       "email": "govtnz@dia.govt.nz"
     }],
     "require": {
-        "silverstripe/framework": "^4",
-        "silverstripe/cms": "^4"
+        "silverstripe/framework": "^5",
+        "silverstripe/cms": "^5"
     },
     "autoload": {
         "psr-4": {
